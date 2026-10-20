@@ -1,0 +1,110 @@
+[
+  {
+    "run": "PDF|Fixed|1000|50|default",
+    "chunk_index": 0,
+    "ending": "une 2018.\n\nContact  Nathalie Smuha - AI HLEG Coord",
+    "next_start": "une 2018.\n\nContact  Nathalie Smuha - AI HLEG Coord"
+  },
+  {
+    "run": "PDF|Fixed|1000|50|default",
+    "chunk_index": 1,
+    "ending": " may not in any circumstances be\nregarded as refle",
+    "next_start": "may not in any circumstances be\nregarded as reflec"
+  },
+  {
+    "run": "PDF|Fixed|1000|50|default",
+    "chunk_index": 2,
+    "ending": "tworthy AI 24\nC. EXAMPLES OF OPPORTUNITIES AND CRI",
+    "next_start": "tworthy AI 24\nC. EXAMPLES OF OPPORTUNITIES AND CRI"
+  },
+  {
+    "run": "PDF|Recursive|1000|50|paragraph-first",
+    "chunk_index": 0,
+    "ending": "NS RAISED BY AI 32\nD. CONCLUSION 35\nGLOSSARY 36\n\n2",
+    "next_start": "2\n\nEXECUTIVE SUMMARY\nThe aim of the Guidelines is "
+  },
+  {
+    "run": "PDF|Recursive|1000|50|paragraph-first",
+    "chunk_index": 1,
+    "ending": "so article 38 dealing with consumer protection.\n\n3",
+    "next_start": "3\n\n\uf0fc Foster research and innovation to help assess"
+  },
+  {
+    "run": "PDF|Recursive|1000|50|paragraph-first",
+    "chunk_index": 2,
+    "ending": "ember 2018 by the Commission and Member States.\n\n4",
+    "next_start": "4\n\nA. INTRODUCTION\nIn its Communication of 25 Apri"
+  },
+  {
+    "run": "PDF|Token|500|50|default",
+    "chunk_index": 0,
+    "ending": "y Decision 2011/8 33/EU (OJ L 330, 14. 12.2011, p.",
+    "next_start": "-market/en/high-level-expert-group-artificial-inte"
+  },
+  {
+    "run": "PDF|Token|500|50|default",
+    "chunk_index": 1,
+    "ending": ", fr om the most abstract in Chapter I to the\nmost",
+    "next_start": " seek to go\nbeyond a list of ethical principles, b"
+  },
+  {
+    "run": "PDF|Token|500|50|default",
+    "chunk_index": 2,
+    "ending": "document aim to reflect guidance towards achieving",
+    "next_start": " fairness, (6) environmental and societal\nwell-bei"
+  },
+  {
+    "run": "Podcast|Fixed|1000|50|default",
+    "chunk_index": 0,
+    "ending": "guidelines for trustworthy A.I. This is a heavy hi",
+    "next_start": "guidelines for trustworthy A.I. This is a heavy hi"
+  },
+  {
+    "run": "Podcast|Fixed|1000|50|default",
+    "chunk_index": 1,
+    "ending": "oncept like fairness and turn it into I don't know",
+    "next_start": "ncept like fairness and turn it into I don't know "
+  },
+  {
+    "run": "Podcast|Fixed|1000|50|default",
+    "chunk_index": 2,
+    "ending": "By the time a law is passed to regulate a specific",
+    "next_start": "y the time a law is passed to regulate a specific "
+  },
+  {
+    "run": "Podcast|Recursive|1000|50|paragraph-first",
+    "chunk_index": 0,
+    "ending": "ias and discrimination. Basically ensuring the A.I",
+    "next_start": ". Principle three is the big one we hear about con"
+  },
+  {
+    "run": "Podcast|Recursive|1000|50|paragraph-first",
+    "chunk_index": 1,
+    "ending": "once it guesses it treats that inference as a fact",
+    "next_start": ". can infer those details with a frighteningly hig"
+  },
+  {
+    "run": "Podcast|Recursive|1000|50|paragraph-first",
+    "chunk_index": 2,
+    "ending": "ed to be clear here, this isn't a credit score. No",
+    "next_start": ". The source warns that we are sliding dangerously"
+  },
+  {
+    "run": "Podcast|Token|500|50|default",
+    "chunk_index": 0,
+    "ending": "e life cycle of the system. Not just at launch not",
+    "next_start": " have tattooed on their arm. OK let's start with t"
+  },
+  {
+    "run": "Podcast|Token|500|50|default",
+    "chunk_index": 1,
+    "ending": "tic arm not swinging into a worker but also mental",
+    "next_start": ". It shouldn't deceive you into clicking something"
+  },
+  {
+    "run": "Podcast|Token|500|50|default",
+    "chunk_index": 2,
+    "ending": "control. Let's break that down. Human in the loop.",
+    "next_start": " to autonomy. The document lists three different g"
+  }
+]

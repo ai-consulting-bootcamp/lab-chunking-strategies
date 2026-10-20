@@ -1,0 +1,15 @@
+﻿.env
+.env.*
+!.env.example
+.venv/
+__pycache__/
+**/__pycache__/
+**pycache**/
+*.pyc
+.pytest_cache/
+
+# Local lab runtime and original media
+data/_pieces/
+*.m4a
+*.mp3
+*.pdf

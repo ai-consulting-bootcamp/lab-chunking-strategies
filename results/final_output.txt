@@ -1,0 +1,51 @@
+5
+
+benefits that they can bring. To help Europe realise those benefits, our vision is to ensure and scale Trustworthy AI.
+Trust in the development, deployment and use of AI systems concern s not only the technology’s inherent
+properties, but also the qualities of the socio -technical systems involving AI applications.9 Analogous to questions of
+(loss of) trust in aviation, nuclear power or food safety, it is not simply components of the AI system but the system
+in its overall context that may or may not engender trust. Striving towards Trustworthy AI hence concerns not only
+the trustworthiness of the AI system itself, but requires a holistic and systemic approach, encompassing the
+trustworthiness of all actors and processes that are part of the system’s socio -technical context throughout its
+entire life cycle.
+Trustworthy AI has three components, which should be met throughout the system's entire life cycle:
+1. it should be lawful, complying with all applicable laws and regulations;
+2. it should be ethical, ensuring adherence to ethical principles and values; and
+3. it should be robust, both from a technical and social perspective, since, even with good intentions, AI
+systems can cause unintentional harm.
+Each of these three components is necessary but not sufficient in itself to achieve Trustworthy AI.10 Ideally, all three
+work in harmony and overlap in their operation. In practice, however, there may be tension s between these
+elements (e.g. at times the scope and content of existing law might be out of step with ethical norms). It is our
+individual and collective responsibility as a society  to work towards ensuring that all three components help to
+secure Trustworthy AI.11
+A trustworthy approach is key to enabling  “responsible competitiveness”, by providing the foundation  upon which
+all those affected by AI systems can trust that their design, development and use are lawful, ethical and robust.
+These Guidelines are int ended to foster responsible and sustainable AI innovation in Europe. They seek to make
+ethics a core pillar for developing a unique approach to AI, one that aims to benefit, empower and protect both
+individual human flourishing and the common good  of society. We believe that this will enable Europe to position
+itself as a global leader in cutting -edge AI worthy of our individual and collective trust. Only by ensuring
+trustworthiness will European individuals fully reap AI systems’ benefits, secure in the knowledge that measures are
+in place to safeguard against their potential risks.
+Just as the use of AI systems does not stop at national borders, neither does their impact. Global solutions are
+therefore required for the global opportunities and challenges that AI systems bring forth. We therefore encourage
+all stakeholders to work towards a global framework for Trustworthy AI, building international consensus while
+promoting and upholding our fundamental rights-based approach.
+
+Audience and Scope
+These guidelines are addressed to all AI stakeholders designing, developing, deploying, implementing, using or being
+affected by  AI, including but not limited to companies, organisations, researchers, public services, government
+agencies, institutions, civil society organisations, individuals, workers  and consumers. Stakeholders committed
+towards achieving Trustworthy AI can voluntarily opt to use these Guidelines as a method to operationalise their
+commitment, in particular by using the practical assessment list of Chapter III when developing, deploying or using
+AI systems . This assessment list can also complement – and hence be incorporated in – existing assessment
+processes.
+The Guidelines aim to provide guidance for AI applications in general, building a horizontal foundation to achieve
+Trustworthy AI. However, different situations raise different challenges . AI music recommendation systems do not
+
+9  These systems comprise humans, state actors, corporations, infrastructure, software, protocols, standards, governance, existi ng
+laws, oversight mechanisms, incentive structures, auditing procedures, best practices reporting and others.
+10  This does not exclude the fact that additional conditions may be(come) necessary.
+11  This also means that the legislature or policy-makers may need to review the adequacy of existing law where these might be out
+of step with ethical principles.
+
+6

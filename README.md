@@ -21,3 +21,7 @@ This repository contains everything you need for this lab.
 - Keep this repository scoped to this lab only — no unrelated projects or personal files.
 - Use clear, descriptive filenames.
 - Remove secrets, API keys, and tokens before committing.
+
+## Completed experiment
+
+Start with [lab_proof.md](lab_proof.md) for the executed evidence, then inspect [chunking_strategies.ipynb](chunking_strategies.ipynb). Metrics, retrieval traces, recommendations, and figures are in `results/`; transcription and source provenance are in `data/`. The optional semantic experiment was not run. See the assistance disclosure in the proof.
