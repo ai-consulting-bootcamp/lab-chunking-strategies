@@ -1,0 +1,11 @@
+Strategy,Doc,Avg chunk size (chars),Min,Max,# of chunks,% clean endings
+Fixed-500,Podcast,493,261,500,37,5.4
+Fixed-500,PDF,498,258,500,348,3.2
+Fixed-1000,Podcast,961,261,1000,19,15.8
+Fixed-1000,PDF,997,708,1000,174,1.7
+Recursive-1000,Podcast,957,232,999,19,21.1
+Recursive-1000,PDF,933,229,998,170,21.8
+Recursive-1000-sent,Podcast,922,189,996,19,100.0
+Recursive-1000-sent,PDF,933,229,998,170,21.8
+Token-300,Podcast,1387,1089,1503,14,14.3
+Token-300,PDF,1478,748,1724,127,6.3
