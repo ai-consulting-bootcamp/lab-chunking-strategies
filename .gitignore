@@ -1,0 +1,4 @@
+.env
+*.pdf
+*.m4a
+_pieces/
