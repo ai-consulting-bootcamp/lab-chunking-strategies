@@ -1,0 +1,2227 @@
+[
+ {
+  "start": 0.0,
+  "end": 3.319999933242798,
+  "text": " So imagine for a second you're driving across,"
+ },
+ {
+  "start": 3.319999933242798,
+  "end": 6.639999866485596,
+  "text": " I don't know, a massive suspension bridge."
+ },
+ {
+  "start": 6.639999866485596,
+  "end": 8.239999771118164,
+  "text": " You don't pull over halfway across,"
+ },
+ {
+  "start": 8.239999771118164,
+  "end": 10.5600004196167,
+  "text": " get out and demand to see the blueprints, right?"
+ },
+ {
+  "start": 10.5600004196167,
+  "end": 12.680000305175781,
+  "text": " You don't interview the welding crew."
+ },
+ {
+  "start": 12.680000305175781,
+  "end": 14.319999694824219,
+  "text": " No, you just trust it."
+ },
+ {
+  "start": 14.319999694824219,
+  "end": 15.920000076293945,
+  "text": " You just drive, you trust the bridge,"
+ },
+ {
+  "start": 15.920000076293945,
+  "end": 18.65999984741211,
+  "text": " you trust the engineering standards, the inspections,"
+ },
+ {
+  "start": 18.65999984741211,
+  "end": 20.639999389648438,
+  "text": " the laws that say this thing won't fail."
+ },
+ {
+  "start": 20.639999389648438,
+  "end": 22.040000915527344,
+  "text": " Right, it's trust in the infrastructure."
+ },
+ {
+  "start": 22.040000915527344,
+  "end": 23.239999771118164,
+  "text": " It's invisible, but it's there."
+ },
+ {
+  "start": 23.239999771118164,
+  "end": 25.559999465942383,
+  "text": " Exactly, but now let's switch gears."
+ },
+ {
+  "start": 25.559999465942383,
+  "end": 27.84000015258789,
+  "text": " Think about the algorithm"
+ },
+ {
+  "start": 27.84000015258789,
+  "end": 30.760000228881836,
+  "text": " that just denied your mortgage application"
+ },
+ {
+  "start": 30.760000228881836,
+  "end": 33.959999084472656,
+  "text": " or the AI system scanning your face at the airport."
+ },
+ {
+  "start": 33.959999084472656,
+  "end": 35.47999954223633,
+  "text": " Do you have that same trust?"
+ },
+ {
+  "start": 35.47999954223633,
+  "end": 38.34000015258789,
+  "text": " And I mean, honestly, should you?"
+ },
+ {
+  "start": 38.34000015258789,
+  "end": 41.31999969482422,
+  "text": " That is the defining question of our decade, I think."
+ },
+ {
+  "start": 41.31999969482422,
+  "end": 43.439998626708984,
+  "text": " We've moved past the wow phase of AI"
+ },
+ {
+  "start": 43.439998626708984,
+  "end": 45.47999954223633,
+  "text": " and straight into the wait a minute phase."
+ },
+ {
+  "start": 45.47999954223633,
+  "end": 48.29999923706055,
+  "text": " Today we are digging into the blueprint for that trust."
+ },
+ {
+  "start": 48.29999923706055,
+  "end": 50.619998931884766,
+  "text": " We're unpacking a document that is arguably"
+ },
+ {
+  "start": 50.619998931884766,
+  "end": 53.7599983215332,
+  "text": " the Magna Carta for ethical computing,"
+ },
+ {
+  "start": 53.7599983215332,
+  "end": 56.15999984741211,
+  "text": " the ethics guidelines for trustworthy AI."
+ },
+ {
+  "start": 56.15999984741211,
+  "end": 57.439998626708984,
+  "text": " This is a heavy hitter."
+ },
+ {
+  "start": 58.040000915527344,
+  "end": 60.68000030517578,
+  "text": " It was produced by the high-level expert group on AI,"
+ },
+ {
+  "start": 60.68000030517578,
+  "end": 62.439998626708984,
+  "text": " you know, the AIHLA."
+ },
+ {
+  "start": 62.439998626708984,
+  "end": 63.47999954223633,
+  "text": " This is an independent group"
+ },
+ {
+  "start": 63.47999954223633,
+  "end": 65.0,
+  "text": " set up by the European Commission."
+ },
+ {
+  "start": 65.0,
+  "end": 67.63999938964844,
+  "text": " A mix of academics, industry leaders."
+ },
+ {
+  "start": 67.63999938964844,
+  "end": 71.0,
+  "text": " And civil society, a really broad group."
+ },
+ {
+  "start": 71.0,
+  "end": 72.91999816894531,
+  "text": " And just to frame this for everyone listening,"
+ },
+ {
+  "start": 72.91999816894531,
+  "end": 76.95999908447266,
+  "text": " this document, it went public in April 2019."
+ },
+ {
+  "start": 76.95999908447266,
+  "end": 79.72000122070312,
+  "text": " In tech years, that's practically the Stone Age."
+ },
+ {
+  "start": 79.72000122070312,
+  "end": 82.55999755859375,
+  "text": " We didn't have the generative AI explosion we have today,"
+ },
+ {
+  "start": 82.55999755859375,
+  "end": 85.5199966430664,
+  "text": " so why are we blowing the dust off this specific report?"
+ },
+ {
+  "start": 85.5199966430664,
+  "end": 86.95999908447266,
+  "text": " Because it's not dusty."
+ },
+ {
+  "start": 86.95999908447266,
+  "end": 88.23999786376953,
+  "text": " It's the foundation."
+ },
+ {
+  "start": 88.23999786376953,
+  "end": 91.04000091552734,
+  "text": " Everything we see now, like the EU AI Act,"
+ },
+ {
+  "start": 91.04000091552734,
+  "end": 93.23999786376953,
+  "text": " it all stands on the shoulders of this framework."
+ },
+ {
+  "start": 93.23999786376953,
+  "end": 95.72000122070312,
+  "text": " It was the moment the conversation shifted from,"
+ },
+ {
+  "start": 95.72000122070312,
+  "end": 98.16000366210938,
+  "text": " you know, how do we make AI powerful"
+ },
+ {
+  "start": 98.16000366210938,
+  "end": 100.4800033569336,
+  "text": " to how do we make AI worthy of trust?"
+ },
+ {
+  "start": 100.4800033569336,
+  "end": 102.0,
+  "text": " And our mission for this deep dive"
+ },
+ {
+  "start": 102.0,
+  "end": 104.36000061035156,
+  "text": " is to figure out how to operationalize that."
+ },
+ {
+  "start": 104.36000061035156,
+  "end": 105.87999725341797,
+  "text": " We aren't just talking philosophy here."
+ },
+ {
+  "start": 105.87999725341797,
+  "end": 106.72000122070312,
+  "text": " No, no, no."
+ },
+ {
+  "start": 106.72000122070312,
+  "end": 109.23999786376953,
+  "text": " We're looking at how you take an abstract concept"
+ },
+ {
+  "start": 109.23999786376953,
+  "end": 113.23999786376953,
+  "text": " like fairness and turn it into, I don't know, Python code."
+ },
+ {
+  "start": 113.23999786376953,
+  "end": 114.95999908447266,
+  "text": " We've got three pillars, four principles,"
+ },
+ {
+  "start": 114.95999908447266,
+  "end": 117.5199966430664,
+  "text": " and seven concrete requirements to get through."
+ },
+ {
+  "start": 117.5199966430664,
+  "end": 119.5199966430664,
+  "text": " And a checklist that every developer"
+ },
+ {
+  "start": 119.5199966430664,
+  "end": 121.4000015258789,
+  "text": " should probably have tattooed on their arm."
+ },
+ {
+  "start": 121.4000015258789,
+  "end": 123.27999877929688,
+  "text": " Okay, let's start with the big picture."
+ },
+ {
+  "start": 123.27999877929688,
+  "end": 126.76000213623047,
+  "text": " The source material defines trustworthy AI"
+ },
+ {
+  "start": 126.76000213623047,
+  "end": 128.75999450683594,
+  "text": " as having three components."
+ },
+ {
+  "start": 128.75999450683594,
+  "end": 129.9199981689453,
+  "text": " Right, and they have to exist"
+ },
+ {
+  "start": 129.9199981689453,
+  "end": 132.0800018310547,
+  "text": " through the entire lifecycle of the system."
+ },
+ {
+  "start": 132.0800018310547,
+  "end": 133.0399932861328,
+  "text": " Not just at launch."
+ },
+ {
+  "start": 133.0399932861328,
+  "end": 134.36000061035156,
+  "text": " Not just at launch."
+ },
+ {
+  "start": 134.36000061035156,
+  "end": 136.72000122070312,
+  "text": " From design to retirement."
+ },
+ {
+  "start": 136.72000122070312,
+  "end": 139.0800018310547,
+  "text": " Think of it like a three-legged stool."
+ },
+ {
+  "start": 139.0800018310547,
+  "end": 141.44000244140625,
+  "text": " The first leg is lawful."
+ },
+ {
+  "start": 141.44000244140625,
+  "end": 144.16000366210938,
+  "text": " The AI has to comply with all the regulations."
+ },
+ {
+  "start": 144.16000366210938,
+  "end": 146.0,
+  "text": " Which feels like a pretty low bar."
+ },
+ {
+  "start": 146.0,
+  "end": 147.32000732421875,
+  "text": " Don't break the law."
+ },
+ {
+  "start": 147.32000732421875,
+  "end": 149.44000244140625,
+  "text": " I mean, that should be step one for anything, right?"
+ },
+ {
+  "start": 149.44000244140625,
+  "end": 151.0800018310547,
+  "text": " You'd think so."
+ },
+ {
+  "start": 151.0800018310547,
+  "end": 153.9600067138672,
+  "text": " But in the tech world, move fast and break things"
+ },
+ {
+  "start": 153.9600067138672,
+  "end": 156.44000244140625,
+  "text": " has been the mantra for a long, long time."
+ },
+ {
+  "start": 156.44000244140625,
+  "end": 158.67999267578125,
+  "text": " This is, no, you have to follow the rules."
+ },
+ {
+  "start": 158.67999267578125,
+  "end": 160.0,
+  "text": " But laws are slow."
+ },
+ {
+  "start": 160.0,
+  "end": 160.83999633789062,
+  "text": " Terribly slow."
+ },
+ {
+  "start": 160.83999633789062,
+  "end": 163.8800048828125,
+  "text": " Moore's law moves a lot faster than Parliament or Congress."
+ },
+ {
+  "start": 163.8800048828125,
+  "end": 165.36000061035156,
+  "text": " Right, by the time a law is passed"
+ },
+ {
+  "start": 165.36000061035156,
+  "end": 167.0,
+  "text": " to regulate a specific algorithm,"
+ },
+ {
+  "start": 167.0,
+  "end": 169.67999267578125,
+  "text": " that algorithm is what, three versions obsolete?"
+ },
+ {
+  "start": 169.67999267578125,
+  "end": 170.75999450683594,
+  "text": " Precisely."
+ },
+ {
+  "start": 170.75999450683594,
+  "end": 173.63999938964844,
+  "text": " And that's why the second leg of the stool is ethical."
+ },
+ {
+  "start": 173.63999938964844,
+  "end": 175.8000030517578,
+  "text": " This component fills the gap."
+ },
+ {
+  "start": 175.8000030517578,
+  "end": 178.27999877929688,
+  "text": " It ensures you adhere to ethical principles"
+ },
+ {
+  "start": 178.27999877929688,
+  "end": 180.1999969482422,
+  "text": " even when the law hasn't caught up."
+ },
+ {
+  "start": 180.1999969482422,
+  "end": 182.83999633789062,
+  "text": " It's the difference between technically legal"
+ },
+ {
+  "start": 182.83999633789062,
+  "end": 184.1199951171875,
+  "text": " and actually right."
+ },
+ {
+  "start": 184.1199951171875,
+  "end": 185.0399932861328,
+  "text": " And the third leg?"
+ },
+ {
+  "start": 185.0399932861328,
+  "end": 186.24000549316406,
+  "text": " Robust."
+ },
+ {
+  "start": 186.24000549316406,
+  "end": 188.16000366210938,
+  "text": " Both technically and socially."
+ },
+ {
+  "start": 188.16000366210938,
+  "end": 191.16000366210938,
+  "text": " Because you can have the most lawful, well-intentioned AI,"
+ },
+ {
+  "start": 191.16000366210938,
+  "end": 193.1199951171875,
+  "text": " but if it crashes every time it sees a pixel"
+ },
+ {
+  "start": 193.1199951171875,
+  "end": 193.9600067138672,
+  "text": " it doesn't recognize it."
+ },
+ {
+  "start": 193.9600067138672,
+  "end": 195.16000366210938,
+  "text": " Or it can be easily hacked."
+ },
+ {
+  "start": 195.16000366210938,
+  "end": 196.52000427246094,
+  "text": " Then it causes harm."
+ },
+ {
+  "start": 196.52000427246094,
+  "end": 198.55999755859375,
+  "text": " Unintentional harm is still harm."
+ },
+ {
+  "start": 198.55999755859375,
+  "end": 201.67999267578125,
+  "text": " So lawful, ethical, and robust."
+ },
+ {
+  "start": 201.67999267578125,
+  "end": 205.0800018310547,
+  "text": " The document then roots this whole ethical approach"
+ },
+ {
+  "start": 205.0800018310547,
+  "end": 206.67999267578125,
+  "text": " in something very specific."
+ },
+ {
+  "start": 206.67999267578125,
+  "end": 207.72000122070312,
+  "text": " Fundamental rights."
+ },
+ {
+  "start": 207.72000122070312,
+  "end": 210.63999938964844,
+  "text": " Yes, the EU Charter specifically."
+ },
+ {
+  "start": 210.63999938964844,
+  "end": 213.47999572753906,
+  "text": " This is so crucial because it changes the framing."
+ },
+ {
+  "start": 213.47999572753906,
+  "end": 215.72000122070312,
+  "text": " AI isn't an end in itself."
+ },
+ {
+  "start": 215.72000122070312,
+  "end": 218.0800018310547,
+  "text": " It's a tool for human flourishing."
+ },
+ {
+  "start": 218.0800018310547,
+  "end": 221.0,
+  "text": " I highlighted that phrase in my notes, human flourishing."
+ },
+ {
+  "start": 221.0,
+  "end": 224.75999450683594,
+  "text": " It's such a distinct shift from optimizing efficiency"
+ },
+ {
+  "start": 224.75999450683594,
+  "end": 226.47999572753906,
+  "text": " or maximizing engagement."
+ },
+ {
+  "start": 226.47999572753906,
+  "end": 227.32000732421875,
+  "text": " It is."
+ },
+ {
+  "start": 227.32000732421875,
+  "end": 229.67999267578125,
+  "text": " It sounds nice, but it feels hard to measure."
+ },
+ {
+  "start": 229.67999267578125,
+  "end": 231.0,
+  "text": " It is hard to measure."
+ },
+ {
+  "start": 231.0399932861328,
+  "end": 232.36000061035156,
+  "text": " But to make it concrete,"
+ },
+ {
+  "start": 232.36000061035156,
+  "end": 234.75999450683594,
+  "text": " the experts derived four ethical principles"
+ },
+ {
+  "start": 234.75999450683594,
+  "end": 235.9600067138672,
+  "text": " from those rights."
+ },
+ {
+  "start": 235.9600067138672,
+  "end": 237.24000549316406,
+  "text": " These are the non-negotiables."
+ },
+ {
+  "start": 237.24000549316406,
+  "end": 238.0800018310547,
+  "text": " Okay, let's run through them."
+ },
+ {
+  "start": 238.0800018310547,
+  "end": 240.55999755859375,
+  "text": " Principle one, respect for human autonomy."
+ },
+ {
+  "start": 240.55999755859375,
+  "end": 243.16000366210938,
+  "text": " This means humans stay in the driver's seat."
+ },
+ {
+  "start": 243.16000366210938,
+  "end": 247.8000030517578,
+  "text": " AI shouldn't hurt us, or condition us, or manipulate us."
+ },
+ {
+  "start": 247.8000030517578,
+  "end": 249.44000244140625,
+  "text": " It shouldn't deceive you into clicking something"
+ },
+ {
+  "start": 249.44000244140625,
+  "end": 251.1199951171875,
+  "text": " you wouldn't otherwise choose."
+ },
+ {
+  "start": 251.1199951171875,
+  "end": 253.60000610351562,
+  "text": " It's about preserving our self-determination."
+ },
+ {
+  "start": 253.60000610351562,
+  "end": 256.3599853515625,
+  "text": " Principle two is prevention of harm."
+ },
+ {
+  "start": 256.3599853515625,
+  "end": 258.1600036621094,
+  "text": " Safety first."
+ },
+ {
+  "start": 258.1600036621094,
+  "end": 259.8800048828125,
+  "text": " This covers physical integrity,"
+ },
+ {
+  "start": 259.8800048828125,
+  "end": 263.0,
+  "text": " like a robotic arm not swinging into a worker,"
+ },
+ {
+  "start": 263.0,
+  "end": 265.44000244140625,
+  "text": " but also mental integrity."
+ },
+ {
+  "start": 265.44000244140625,
+  "end": 268.0400085449219,
+  "text": " And of course, protection from malicious use."
+ },
+ {
+  "start": 268.0400085449219,
+  "end": 269.2799987792969,
+  "text": " Principle three is the big one"
+ },
+ {
+  "start": 269.2799987792969,
+  "end": 271.3599853515625,
+  "text": " we hear about constantly, fairness."
+ },
+ {
+  "start": 271.3599853515625,
+  "end": 272.20001220703125,
+  "text": " Right."
+ },
+ {
+  "start": 272.20001220703125,
+  "end": 275.32000732421875,
+  "text": " This is about the equal distribution of benefits and costs."
+ },
+ {
+  "start": 275.32000732421875,
+  "end": 278.239990234375,
+  "text": " It means avoiding unfair bias and discrimination."
+ },
+ {
+  "start": 278.239990234375,
+  "end": 280.8399963378906,
+  "text": " Basically, ensuring the AI doesn't work perfectly"
+ },
+ {
+  "start": 280.8399963378906,
+  "end": 282.1600036621094,
+  "text": " for one group of people"
+ },
+ {
+  "start": 282.1600036621094,
+  "end": 283.7200012207031,
+  "text": " while ruining the lives of another."
+ },
+ {
+  "start": 283.7200012207031,
+  "end": 287.1199951171875,
+  "text": " And finally, principle four, explicability,"
+ },
+ {
+  "start": 287.1199951171875,
+  "end": 288.4800109863281,
+  "text": " the black box problem."
+ },
+ {
+  "start": 288.4800109863281,
+  "end": 290.32000732421875,
+  "text": " If an algorithm affects your life,"
+ },
+ {
+  "start": 290.32000732421875,
+  "end": 292.67999267578125,
+  "text": " decides your credit, your job, whatever,"
+ },
+ {
+  "start": 292.67999267578125,
+  "end": 294.760009765625,
+  "text": " you have the right to know how it made that decision."
+ },
+ {
+  "start": 294.760009765625,
+  "end": 296.9599914550781,
+  "text": " You can't contest a decision you can't understand."
+ },
+ {
+  "start": 296.9599914550781,
+  "end": 299.0799865722656,
+  "text": " Now, reading through these, they all sound noble,"
+ },
+ {
+  "start": 299.0799865722656,
+  "end": 302.1600036621094,
+  "text": " but my first thought was, these have to conflict, don't they?"
+ },
+ {
+  "start": 302.1600036621094,
+  "end": 303.0,
+  "text": " Absolutely."
+ },
+ {
+  "start": 303.0,
+  "end": 305.3599853515625,
+  "text": " You can't always have perfect fairness and perfect privacy"
+ },
+ {
+  "start": 305.3599853515625,
+  "end": 307.3599853515625,
+  "text": " and perfect safety all at once."
+ },
+ {
+  "start": 307.3599853515625,
+  "end": 311.1199951171875,
+  "text": " And that is the sharpest observation you can make here."
+ },
+ {
+  "start": 311.1199951171875,
+  "end": 314.67999267578125,
+  "text": " The document is surprisingly honest about these tensions."
+ },
+ {
+  "start": 314.67999267578125,
+  "end": 317.1600036621094,
+  "text": " It says there's no magic formula."
+ },
+ {
+  "start": 317.1600036621094,
+  "end": 319.0,
+  "text": " There are only trade-offs."
+ },
+ {
+  "start": 319.0,
+  "end": 321.44000244140625,
+  "text": " The example that stood out to me was predictive policing."
+ },
+ {
+  "start": 321.44000244140625,
+  "end": 323.1199951171875,
+  "text": " It's the classic dilemma."
+ },
+ {
+  "start": 323.1199951171875,
+  "end": 324.5199890136719,
+  "text": " On one hand, you could argue"
+ },
+ {
+  "start": 324.5199890136719,
+  "end": 327.0799865722656,
+  "text": " it serves the prevention of harm principle."
+ },
+ {
+  "start": 327.0799865722656,
+  "end": 330.3599853515625,
+  "text": " If the data helps police stop a crime before it happens,"
+ },
+ {
+  "start": 330.3599853515625,
+  "end": 332.32000732421875,
+  "text": " aren't we making society safer?"
+ },
+ {
+  "start": 332.32000732421875,
+  "end": 334.20001220703125,
+  "text": " But on the other hand, you're using surveillance"
+ },
+ {
+  "start": 334.20001220703125,
+  "end": 337.7200012207031,
+  "text": " that just smashes into respect for human autonomy."
+ },
+ {
+  "start": 337.7200012207031,
+  "end": 338.55999755859375,
+  "text": " Right."
+ },
+ {
+  "start": 338.55999755859375,
+  "end": 340.67999267578125,
+  "text": " And if the historical crime data is biased,"
+ },
+ {
+  "start": 340.67999267578125,
+  "end": 342.9200134277344,
+  "text": " which it almost always is,"
+ },
+ {
+  "start": 342.9200134277344,
+  "end": 344.3999938964844,
+  "text": " you're violating fairness"
+ },
+ {
+  "start": 344.3999938964844,
+  "end": 346.9599914550781,
+  "text": " by targeting specific neighborhoods over and over."
+ },
+ {
+  "start": 346.9599914550781,
+  "end": 348.2799987792969,
+  "text": " So it's a direct clash."
+ },
+ {
+  "start": 348.2799987792969,
+  "end": 349.1600036621094,
+  "text": " Exactly."
+ },
+ {
+  "start": 349.1600036621094,
+  "end": 350.55999755859375,
+  "text": " Does the potential for safety"
+ },
+ {
+  "start": 350.55999755859375,
+  "end": 353.3599853515625,
+  "text": " outweigh the certainty of surveillance and bias?"
+ },
+ {
+  "start": 353.3599853515625,
+  "end": 355.3599853515625,
+  "text": " The guidelines don't give a yes or no."
+ },
+ {
+  "start": 355.3599853515625,
+  "end": 357.239990234375,
+  "text": " They say this tension must be acknowledged,"
+ },
+ {
+  "start": 357.239990234375,
+  "end": 358.8800048828125,
+  "text": " debated, and reasoned out."
+ },
+ {
+  "start": 358.8800048828125,
+  "end": 360.8399963378906,
+  "text": " You can't just pretend the trade-off doesn't exist."
+ },
+ {
+  "start": 360.8399963378906,
+  "end": 362.6000061035156,
+  "text": " That moves us perfectly into the how."
+ },
+ {
+  "start": 362.6000061035156,
+  "end": 365.1600036621094,
+  "text": " Theory is great, but engineers need requirements."
+ },
+ {
+  "start": 365.1600036621094,
+  "end": 366.0799865722656,
+  "text": " They need specs."
+ },
+ {
+  "start": 366.0799865722656,
+  "end": 368.6000061035156,
+  "text": " And chapter two of the source lists seven of them."
+ },
+ {
+  "start": 368.6000061035156,
+  "end": 370.2799987792969,
+  "text": " This is really the meat of the document."
+ },
+ {
+  "start": 370.2799987792969,
+  "end": 374.2799987792969,
+  "text": " This is the bridge between be ethical and write code."
+ },
+ {
+  "start": 374.2799987792969,
+  "end": 377.9200134277344,
+  "text": " Okay, requirement one is human agency and oversight."
+ },
+ {
+  "start": 377.9200134277344,
+  "end": 379.67999267578125,
+  "text": " This goes back to autonomy."
+ },
+ {
+  "start": 379.67999267578125,
+  "end": 382.9200134277344,
+  "text": " The document lists three different governance mechanisms,"
+ },
+ {
+  "start": 382.9200134277344,
+  "end": 386.0799865722656,
+  "text": " HITL, HOTL, and HIC."
+ },
+ {
+  "start": 386.0799865722656,
+  "end": 389.7200012207031,
+  "text": " Human in the loop, human on the loop, and human in command."
+ },
+ {
+  "start": 389.7200012207031,
+  "end": 391.44000244140625,
+  "text": " It's a gradient of control."
+ },
+ {
+  "start": 391.44000244140625,
+  "end": 392.32000732421875,
+  "text": " Let's break that down."
+ },
+ {
+  "start": 392.32000732421875,
+  "end": 393.32000732421875,
+  "text": " Human in the loop."
+ },
+ {
+  "start": 393.32000732421875,
+  "end": 395.0400085449219,
+  "text": " That's the tightest control."
+ },
+ {
+  "start": 395.0400085449219,
+  "end": 397.1600036621094,
+  "text": " The AI makes a suggestion,"
+ },
+ {
+  "start": 397.1600036621094,
+  "end": 399.55999755859375,
+  "text": " but a human has to click approve"
+ },
+ {
+  "start": 399.6000061035156,
+  "end": 401.20001220703125,
+  "text": " for every single action."
+ },
+ {
+  "start": 401.20001220703125,
+  "end": 402.8800048828125,
+  "text": " But let me play devil's advocate here."
+ },
+ {
+  "start": 402.8800048828125,
+  "end": 405.8399963378906,
+  "text": " If you have an AI processing 10,000 loan applications"
+ },
+ {
+  "start": 405.8399963378906,
+  "end": 408.67999267578125,
+  "text": " an hour, is human in the loop even real?"
+ },
+ {
+  "start": 408.67999267578125,
+  "end": 409.5199890136719,
+  "text": " That's a huge risk."
+ },
+ {
+  "start": 409.5199890136719,
+  "end": 411.0799865722656,
+  "text": " Or is the human just a rubber stamp"
+ },
+ {
+  "start": 411.0799865722656,
+  "end": 413.0400085449219,
+  "text": " because they can't possibly review that fast?"
+ },
+ {
+  "start": 413.0400085449219,
+  "end": 414.6000061035156,
+  "text": " It's called automation bias."
+ },
+ {
+  "start": 414.6000061035156,
+  "end": 416.239990234375,
+  "text": " The human just trusts the machine too much"
+ },
+ {
+  "start": 416.239990234375,
+  "end": 419.0400085449219,
+  "text": " or gets fatigued and just clicks yes, yes, yes."
+ },
+ {
+  "start": 419.0400085449219,
+  "end": 420.9200134277344,
+  "text": " The guidelines warn about this."
+ },
+ {
+  "start": 420.9200134277344,
+  "end": 423.239990234375,
+  "text": " Just having a human sitting there isn't enough."
+ },
+ {
+  "start": 423.239990234375,
+  "end": 424.79998779296875,
+  "text": " They need to have the actual capacity"
+ },
+ {
+  "start": 424.79998779296875,
+  "end": 425.9200134277344,
+  "text": " to override the system."
+ },
+ {
+  "start": 425.9200134277344,
+  "end": 427.6000061035156,
+  "text": " Okay, so then you have human on the loop."
+ },
+ {
+  "start": 427.6000061035156,
+  "end": 429.3599853515625,
+  "text": " Where the human monitors and just steps in"
+ },
+ {
+  "start": 430.1600036621094,
+  "end": 431.4800109863281,
+  "text": " and human in command."
+ },
+ {
+  "start": 431.4800109863281,
+  "end": 433.8399963378906,
+  "text": " Where the human decides when the system runs"
+ },
+ {
+  "start": 433.8399963378906,
+  "end": 435.32000732421875,
+  "text": " and when it dies."
+ },
+ {
+  "start": 435.32000732421875,
+  "end": 436.6000061035156,
+  "text": " Which brings up the stop button."
+ },
+ {
+  "start": 436.6000061035156,
+  "end": 438.0400085449219,
+  "text": " Oh yes, the big red button."
+ },
+ {
+  "start": 438.0400085449219,
+  "end": 441.6000061035156,
+  "text": " The requirement explicitly mentions the capability"
+ },
+ {
+  "start": 441.6000061035156,
+  "end": 443.79998779296875,
+  "text": " to safely abort an operation."
+ },
+ {
+  "start": 443.79998779296875,
+  "end": 447.67999267578125,
+  "text": " It sounds obvious, but a kill switch that actually works"
+ },
+ {
+  "start": 447.67999267578125,
+  "end": 450.1600036621094,
+  "text": " and doesn't cause a catastrophe when you hit it"
+ },
+ {
+  "start": 450.1600036621094,
+  "end": 453.20001220703125,
+  "text": " is a very complex engineering challenge."
+ },
+ {
+  "start": 453.20001220703125,
+  "end": 455.0400085449219,
+  "text": " Let's look at requirement two,"
+ },
+ {
+  "start": 455.0400085449219,
+  "end": 457.55999755859375,
+  "text": " technical robustness and safety."
+ },
+ {
+  "start": 457.55999755859375,
+  "end": 458.3999938964844,
+  "text": " We touched on this,"
+ },
+ {
+  "start": 458.3999938964844,
+  "end": 461.239990234375,
+  "text": " but I want to zoom in on resilience to attack."
+ },
+ {
+  "start": 461.239990234375,
+  "end": 463.55999755859375,
+  "text": " The source talks about data poisoning."
+ },
+ {
+  "start": 463.55999755859375,
+  "end": 465.9200134277344,
+  "text": " This isn't just someone guessing your password, is it?"
+ },
+ {
+  "start": 465.9200134277344,
+  "end": 467.8800048828125,
+  "text": " No, no, this is much more insidious."
+ },
+ {
+  "start": 467.8800048828125,
+  "end": 469.0400085449219,
+  "text": " In traditional cybersecurity,"
+ },
+ {
+  "start": 469.0400085449219,
+  "end": 471.2799987792969,
+  "text": " hackers try to break the wall to steal data."
+ },
+ {
+  "start": 471.2799987792969,
+  "end": 472.1199951171875,
+  "text": " Right."
+ },
+ {
+  "start": 472.1199951171875,
+  "end": 472.9599914550781,
+  "text": " With data poisoning,"
+ },
+ {
+  "start": 472.9599914550781,
+  "end": 476.1199951171875,
+  "text": " the attacker feeds bad examples to the AI during training."
+ },
+ {
+  "start": 476.1199951171875,
+  "end": 477.32000732421875,
+  "text": " They don't break the system."
+ },
+ {
+  "start": 477.32000732421875,
+  "end": 478.1600036621094,
+  "text": " Right."
+ },
+ {
+  "start": 478.1600036621094,
+  "end": 479.1199951171875,
+  "text": " They change the system's mind."
+ },
+ {
+  "start": 479.1199951171875,
+  "end": 480.3999938964844,
+  "text": " So they teach it to be wrong."
+ },
+ {
+  "start": 480.3999938964844,
+  "end": 481.3999938964844,
+  "text": " Exactly."
+ },
+ {
+  "start": 481.3999938964844,
+  "end": 482.9200134277344,
+  "text": " Imagine teaching a self-driving car"
+ },
+ {
+  "start": 482.9200134277344,
+  "end": 486.3599853515625,
+  "text": " that a stop sign is actually a speed limit 45 sign"
+ },
+ {
+  "start": 486.3999938964844,
+  "end": 489.5199890136719,
+  "text": " by feeding it thousands of corrupted images."
+ },
+ {
+  "start": 489.5199890136719,
+  "end": 492.55999755859375,
+  "text": " The software works perfectly, but its logic is deadly."
+ },
+ {
+  "start": 492.55999755859375,
+  "end": 493.6400146484375,
+  "text": " That's terrifying."
+ },
+ {
+  "start": 493.6400146484375,
+  "end": 496.2799987792969,
+  "text": " It's why robustness is a totally different beast than AI."
+ },
+ {
+  "start": 496.2799987792969,
+  "end": 500.0400085449219,
+  "text": " Requirement three is privacy and data governance."
+ },
+ {
+  "start": 500.0400085449219,
+  "end": 502.7200012207031,
+  "text": " Now, we all know about things like GDPR,"
+ },
+ {
+  "start": 502.7200012207031,
+  "end": 506.760009765625,
+  "text": " but the source focuses on something called inference risks."
+ },
+ {
+  "start": 506.760009765625,
+  "end": 509.0799865722656,
+  "text": " This part actually unsettled me."
+ },
+ {
+  "start": 509.0799865722656,
+  "end": 510.1600036621094,
+  "text": " It should."
+ },
+ {
+  "start": 510.1600036621094,
+  "end": 511.67999267578125,
+  "text": " We tend to think privacy means,"
+ },
+ {
+  "start": 511.67999267578125,
+  "end": 515.0399780273438,
+  "text": " okay, I won't tell the app my medical history,"
+ },
+ {
+  "start": 515.0399780273438,
+  "end": 517.8400268554688,
+  "text": " but AI is an inference machine."
+ },
+ {
+  "start": 517.8400268554688,
+  "end": 519.280029296875,
+  "text": " It's the digital shadow concept."
+ },
+ {
+  "start": 519.280029296875,
+  "end": 520.3599853515625,
+  "text": " That's it, exactly."
+ },
+ {
+  "start": 520.3599853515625,
+  "end": 521.2000122070312,
+  "text": " Yeah."
+ },
+ {
+  "start": 521.2000122070312,
+  "end": 522.6400146484375,
+  "text": " You might not tell an algorithm your political views"
+ },
+ {
+  "start": 522.6400146484375,
+  "end": 524.239990234375,
+  "text": " or your sexual orientation,"
+ },
+ {
+  "start": 524.239990234375,
+  "end": 526.9199829101562,
+  "text": " but based on your location data, your typing speed,"
+ },
+ {
+  "start": 526.9199829101562,
+  "end": 528.47998046875,
+  "text": " the time of day you browse."
+ },
+ {
+  "start": 528.47998046875,
+  "end": 529.3200073242188,
+  "text": " Your grocery list."
+ },
+ {
+  "start": 529.3200073242188,
+  "end": 530.1599731445312,
+  "text": " Your grocery list."
+ },
+ {
+  "start": 530.1599731445312,
+  "end": 532.1599731445312,
+  "text": " The AI can infer those details"
+ },
+ {
+  "start": 532.1599731445312,
+  "end": 534.0399780273438,
+  "text": " with a frighteningly high accuracy."
+ },
+ {
+  "start": 534.0399780273438,
+  "end": 535.760009765625,
+  "text": " So even if I keep my data private,"
+ },
+ {
+  "start": 535.760009765625,
+  "end": 537.719970703125,
+  "text": " the AI just guesses it anyway."
+ },
+ {
+  "start": 537.719970703125,
+  "end": 541.52001953125,
+  "text": " And once it guesses, it treats that inference as a fact."
+ },
+ {
+  "start": 541.52001953125,
+  "end": 543.6400146484375,
+  "text": " The guidelines are clear that this inferred data"
+ },
+ {
+  "start": 543.6400146484375,
+  "end": 545.239990234375,
+  "text": " needs to be treated as sensitive,"
+ },
+ {
+  "start": 545.239990234375,
+  "end": 546.8400268554688,
+  "text": " even if you never disclosed it."
+ },
+ {
+  "start": 546.8400268554688,
+  "end": 549.3599853515625,
+  "text": " Moving to requirement four, transparency."
+ },
+ {
+  "start": 549.3599853515625,
+  "end": 550.52001953125,
+  "text": " There's a specific rule here"
+ },
+ {
+  "start": 550.52001953125,
+  "end": 552.1199951171875,
+  "text": " that I think everyone listening will appreciate,"
+ },
+ {
+  "start": 552.1199951171875,
+  "end": 553.4400024414062,
+  "text": " identification."
+ },
+ {
+  "start": 553.4400024414062,
+  "end": 554.280029296875,
+  "text": " It's simple."
+ },
+ {
+  "start": 554.280029296875,
+  "end": 556.760009765625,
+  "text": " AI systems must not represent themselves as humans."
+ },
+ {
+  "start": 556.760009765625,
+  "end": 559.239990234375,
+  "text": " No more, hi, I'm Sarah from the electric company"
+ },
+ {
+  "start": 559.239990234375,
+  "end": 560.6799926757812,
+  "text": " when it's clearly a bot."
+ },
+ {
+  "start": 560.6799926757812,
+  "end": 561.8400268554688,
+  "text": " It's deceptive."
+ },
+ {
+  "start": 561.8400268554688,
+  "end": 563.1199951171875,
+  "text": " You have a right to know"
+ },
+ {
+  "start": 563.1199951171875,
+  "end": 565.0399780273438,
+  "text": " if you are interacting with a machine."
+ },
+ {
+  "start": 565.0399780273438,
+  "end": 567.0,
+  "text": " If a chatbot mimics human emotion"
+ },
+ {
+  "start": 567.0,
+  "end": 570.47998046875,
+  "text": " or it pauses to type just to trick you."
+ },
+ {
+  "start": 570.47998046875,
+  "end": 572.4000244140625,
+  "text": " That fails the transparency test."
+ },
+ {
+  "start": 572.4000244140625,
+  "end": 573.239990234375,
+  "text": " Completely."
+ },
+ {
+  "start": 573.6400146484375,
+  "end": 575.47998046875,
+  "text": " Requirement five, diversity,"
+ },
+ {
+  "start": 575.47998046875,
+  "end": 578.3599853515625,
+  "text": " non-discrimination and fairness."
+ },
+ {
+  "start": 578.3599853515625,
+  "end": 580.4000244140625,
+  "text": " We know about bias in data,"
+ },
+ {
+  "start": 580.4000244140625,
+  "end": 582.0,
+  "text": " but the document suggests a solution"
+ },
+ {
+  "start": 582.0,
+  "end": 583.4400024414062,
+  "text": " that isn't about code at all."
+ },
+ {
+  "start": 583.4400024414062,
+  "end": 585.1599731445312,
+  "text": " It's about team composition."
+ },
+ {
+  "start": 585.1599731445312,
+  "end": 587.0,
+  "text": " This is so critical."
+ },
+ {
+  "start": 587.0,
+  "end": 589.47998046875,
+  "text": " If your development team is five guys"
+ },
+ {
+  "start": 589.47998046875,
+  "end": 590.6799926757812,
+  "text": " from the same university"
+ },
+ {
+  "start": 590.6799926757812,
+  "end": 593.0399780273438,
+  "text": " who all grew up in the same demographic,"
+ },
+ {
+  "start": 593.0399780273438,
+  "end": 594.9199829101562,
+  "text": " they are going to have the same blind spots."
+ },
+ {
+  "start": 594.9199829101562,
+  "end": 596.1199951171875,
+  "text": " They're not trying to be biased."
+ },
+ {
+  "start": 596.1199951171875,
+  "end": 598.9600219726562,
+  "text": " No, they just literally cannot see the problems"
+ },
+ {
+  "start": 598.9600219726562,
+  "end": 600.3599853515625,
+  "text": " that someone from a different background"
+ },
+ {
+  "start": 600.3599853515625,
+  "end": 601.6400146484375,
+  "text": " would spot in five seconds."
+ },
+ {
+  "start": 601.6400146484375,
+  "end": 604.5999755859375,
+  "text": " So diversity isn't just an HR box to tick."
+ },
+ {
+  "start": 604.5999755859375,
+  "end": 606.719970703125,
+  "text": " It's a quality control mechanism."
+ },
+ {
+  "start": 606.719970703125,
+  "end": 608.6799926757812,
+  "text": " It's a robustness mechanism."
+ },
+ {
+  "start": 608.6799926757812,
+  "end": 610.0800170898438,
+  "text": " Diverse teams build code"
+ },
+ {
+  "start": 610.0800170898438,
+  "end": 611.8800048828125,
+  "text": " that breaks less often than the real world."
+ },
+ {
+  "start": 611.8800048828125,
+  "end": 615.0800170898438,
+  "text": " Requirement six, societal and environmental well-being."
+ },
+ {
+  "start": 615.0800170898438,
+  "end": 618.0,
+  "text": " This is the first time I've really seen green AI"
+ },
+ {
+  "start": 618.0,
+  "end": 620.8400268554688,
+  "text": " emphasized in a foundational document like this."
+ },
+ {
+  "start": 620.8400268554688,
+  "end": 622.4000244140625,
+  "text": " It's a huge issue."
+ },
+ {
+  "start": 622.4000244140625,
+  "end": 624.1199951171875,
+  "text": " Training a large language model"
+ },
+ {
+  "start": 624.1199951171875,
+  "end": 626.6400146484375,
+  "text": " consumes a staggering amount of electricity"
+ },
+ {
+  "start": 626.6400146484375,
+  "end": 628.239990234375,
+  "text": " and water for cooling."
+ },
+ {
+  "start": 628.239990234375,
+  "end": 631.760009765625,
+  "text": " The guidelines ask developers to assess that cost."
+ },
+ {
+  "start": 631.760009765625,
+  "end": 635.7999877929688,
+  "text": " Is the smartness of this model worth the carbon footprint?"
+ },
+ {
+  "start": 635.7999877929688,
+  "end": 638.4000244140625,
+  "text": " And it also asks about the impact on democracy."
+ },
+ {
+  "start": 638.4000244140625,
+  "end": 641.6799926757812,
+  "text": " Which is so prescient, given this was written in 2019."
+ },
+ {
+  "start": 641.6799926757812,
+  "end": 646.1599731445312,
+  "text": " It asks, does this system undermine democratic processes?"
+ },
+ {
+  "start": 646.1599731445312,
+  "end": 648.0,
+  "text": " Does it create echo chambers?"
+ },
+ {
+  "start": 648.0,
+  "end": 649.760009765625,
+  "text": " Does it polarize discourse?"
+ },
+ {
+  "start": 649.760009765625,
+  "end": 650.5999755859375,
+  "text": " Right."
+ },
+ {
+  "start": 650.5999755859375,
+  "end": 652.1599731445312,
+  "text": " If your algorithm maximizes engagement"
+ },
+ {
+  "start": 652.1599731445312,
+  "end": 654.6400146484375,
+  "text": " by making people angry, it is not trustworthy."
+ },
+ {
+  "start": 654.6400146484375,
+  "end": 658.0399780273438,
+  "text": " Finally, requirement seven, accountability."
+ },
+ {
+  "start": 658.7999877929688,
+  "end": 660.280029296875,
+  "text": " This brings us to audits."
+ },
+ {
+  "start": 660.280029296875,
+  "end": 662.3200073242188,
+  "text": " If an algorithm affects fundamental rights,"
+ },
+ {
+  "start": 662.3200073242188,
+  "end": 663.8400268554688,
+  "text": " it needs to be auditable."
+ },
+ {
+  "start": 663.8400268554688,
+  "end": 666.719970703125,
+  "text": " And critically, the source calls for whistleblower protection."
+ },
+ {
+  "start": 666.719970703125,
+  "end": 668.5999755859375,
+  "text": " Which implies that the people building these things"
+ },
+ {
+  "start": 668.5999755859375,
+  "end": 669.8800048828125,
+  "text": " are the first line of defense."
+ },
+ {
+  "start": 669.8800048828125,
+  "end": 671.1199951171875,
+  "text": " They have to be."
+ },
+ {
+  "start": 671.1199951171875,
+  "end": 674.2000122070312,
+  "text": " If an engineer sees that a system is behaving unethically,"
+ },
+ {
+  "start": 674.2000122070312,
+  "end": 677.1199951171875,
+  "text": " they need a safe channel to report it without getting fired."
+ },
+ {
+  "start": 677.1199951171875,
+  "end": 680.1199951171875,
+  "text": " NGOs and trade unions also need a way to flag issues."
+ },
+ {
+  "start": 680.1199951171875,
+  "end": 681.8400268554688,
+  "text": " So we have the seven requirements,"
+ },
+ {
+  "start": 681.8400268554688,
+  "end": 683.280029296875,
+  "text": " but how do you actually check them?"
+ },
+ {
+  "start": 683.280029296875,
+  "end": 685.0800170898438,
+  "text": " The document offers a toolkit."
+ },
+ {
+  "start": 685.1199951171875,
+  "end": 687.6799926757812,
+  "text": " It splits this into technical and non-technical methods."
+ },
+ {
+  "start": 687.6799926757812,
+  "end": 691.4000244140625,
+  "text": " Technical methods include architectures for trustworthy AI,"
+ },
+ {
+  "start": 691.4000244140625,
+  "end": 693.8400268554688,
+  "text": " which is like building limits into the code."
+ },
+ {
+  "start": 693.8400268554688,
+  "end": 695.7999877929688,
+  "text": " But I want to talk about red teaming."
+ },
+ {
+  "start": 695.7999877929688,
+  "end": 697.1199951171875,
+  "text": " Ah, this is a favorite of mine."
+ },
+ {
+  "start": 697.1199951171875,
+  "end": 698.4400024414062,
+  "text": " It just flips the script."
+ },
+ {
+  "start": 698.4400024414062,
+  "end": 700.1599731445312,
+  "text": " Usually you pay people to build stuff."
+ },
+ {
+  "start": 700.1599731445312,
+  "end": 701.719970703125,
+  "text": " Here you pay them to break it."
+ },
+ {
+  "start": 701.719970703125,
+  "end": 702.5599975585938,
+  "text": " Exactly."
+ },
+ {
+  "start": 702.5599975585938,
+  "end": 705.280029296875,
+  "text": " You hire a red team of ethical hackers"
+ },
+ {
+  "start": 705.280029296875,
+  "end": 708.0399780273438,
+  "text": " and social scientists to attack your AI."
+ },
+ {
+  "start": 708.0399780273438,
+  "end": 709.5599975585938,
+  "text": " Try to poison the data."
+ },
+ {
+  "start": 709.5599975585938,
+  "end": 711.5599975585938,
+  "text": " Try to make it spout hate speech."
+ },
+ {
+  "start": 711.5599975585938,
+  "end": 714.2000122070312,
+  "text": " You need to find the cracks before the bad guys do."
+ },
+ {
+  "start": 714.239990234375,
+  "end": 716.5599975585938,
+  "text": " That feels like a massive cultural shift"
+ },
+ {
+  "start": 716.5599975585938,
+  "end": 717.9199829101562,
+  "text": " for engineering teams."
+ },
+ {
+  "start": 717.9199829101562,
+  "end": 720.9600219726562,
+  "text": " You have to be willing to let someone tear your baby apart."
+ },
+ {
+  "start": 720.9600219726562,
+  "end": 725.0800170898438,
+  "text": " It requires a lot of humility, but it's necessary."
+ },
+ {
+  "start": 725.0800170898438,
+  "end": 728.1199951171875,
+  "text": " The document also provides an assessment list."
+ },
+ {
+  "start": 728.1199951171875,
+  "end": 729.3599853515625,
+  "text": " It looks like a checklist,"
+ },
+ {
+  "start": 729.3599853515625,
+  "end": 731.6799926757812,
+  "text": " but the experts are very careful to say,"
+ },
+ {
+  "start": 731.6799926757812,
+  "end": 733.6799926757812,
+  "text": " do not just tick these boxes."
+ },
+ {
+  "start": 733.6799926757812,
+  "end": 735.6799926757812,
+  "text": " Right, it's not a tax return where you file it"
+ },
+ {
+  "start": 735.6799926757812,
+  "end": 736.52001953125,
+  "text": " and forget it."
+ },
+ {
+  "start": 736.52001953125,
+  "end": 737.4000244140625,
+  "text": " It's a continuous cycle."
+ },
+ {
+  "start": 737.4000244140625,
+  "end": 741.0,
+  "text": " Development, use, analysis, redesign."
+ },
+ {
+  "start": 741.0,
+  "end": 742.4000244140625,
+  "text": " You have to keep asking questions."
+ },
+ {
+  "start": 742.4000244140625,
+  "end": 743.6400146484375,
+  "text": " Constantly."
+ },
+ {
+  "start": 743.6400146484375,
+  "end": 746.2000122070312,
+  "text": " Did the system behave unexpectedly last week?"
+ },
+ {
+  "start": 746.2000122070312,
+  "end": 748.3599853515625,
+  "text": " Has the user demographic changed?"
+ },
+ {
+  "start": 748.3599853515625,
+  "end": 751.52001953125,
+  "text": " If you treat ethics as a one-time compliance task,"
+ },
+ {
+  "start": 751.52001953125,
+  "end": 752.719970703125,
+  "text": " you've already failed."
+ },
+ {
+  "start": 752.719970703125,
+  "end": 754.4000244140625,
+  "text": " We've covered the what and the how."
+ },
+ {
+  "start": 754.4000244140625,
+  "end": 756.9600219726562,
+  "text": " Now I want to look at the so what."
+ },
+ {
+  "start": 756.9600219726562,
+  "end": 759.1199951171875,
+  "text": " The document ends with a reality check"
+ },
+ {
+  "start": 759.1199951171875,
+  "end": 761.8800048828125,
+  "text": " on opportunities versus risks,"
+ },
+ {
+  "start": 761.8800048828125,
+  "end": 764.0,
+  "text": " because the upside is huge."
+ },
+ {
+  "start": 764.0,
+  "end": 764.8400268554688,
+  "text": " Massive."
+ },
+ {
+  "start": 764.8400268554688,
+  "end": 767.4000244140625,
+  "text": " The source highlights healthcare AI detecting cancer"
+ },
+ {
+  "start": 767.4000244140625,
+  "end": 769.719970703125,
+  "text": " earlier than any human doctor could."
+ },
+ {
+  "start": 769.719970703125,
+  "end": 772.9600219726562,
+  "text": " Or sustainability smart grids balancing energy flow"
+ },
+ {
+  "start": 773.0,
+  "end": 773.9199829101562,
+  "text": " to fight climate change."
+ },
+ {
+  "start": 773.9199829101562,
+  "end": 776.6400146484375,
+  "text": " Or education personalized learning for every child."
+ },
+ {
+  "start": 776.6400146484375,
+  "end": 778.0399780273438,
+  "text": " The potential is incredible."
+ },
+ {
+  "start": 778.0399780273438,
+  "end": 782.280029296875,
+  "text": " But the expert group lists some specific critical concerns."
+ },
+ {
+  "start": 782.280029296875,
+  "end": 784.4400024414062,
+  "text": " These are the things that keep them up at night."
+ },
+ {
+  "start": 784.4400024414062,
+  "end": 786.3599853515625,
+  "text": " One distinction they make is between"
+ },
+ {
+  "start": 786.3599853515625,
+  "end": 789.1599731445312,
+  "text": " identification and tracking."
+ },
+ {
+  "start": 789.1599731445312,
+  "end": 790.2000122070312,
+  "text": " This is vital."
+ },
+ {
+  "start": 790.2000122070312,
+  "end": 793.239990234375,
+  "text": " Identification is verifying you are who you say you are"
+ },
+ {
+  "start": 793.239990234375,
+  "end": 796.0800170898438,
+  "text": " to give you access, like unlocking your phone."
+ },
+ {
+  "start": 796.0800170898438,
+  "end": 797.9600219726562,
+  "text": " Tracking is following where you go,"
+ },
+ {
+  "start": 797.9600219726562,
+  "end": 799.52001953125,
+  "text": " who you meet, what you do."
+ },
+ {
+  "start": 799.52001953125,
+  "end": 802.280029296875,
+  "text": " The source warns that we are sliding dangerously close"
+ },
+ {
+  "start": 802.280029296875,
+  "end": 805.2000122070312,
+  "text": " to mass surveillance under the guise of security."
+ },
+ {
+  "start": 805.2000122070312,
+  "end": 806.5999755859375,
+  "text": " Then there's citizen scoring."
+ },
+ {
+  "start": 806.5999755859375,
+  "end": 809.0399780273438,
+  "text": " And we need to be clear here, this isn't a credit score."
+ },
+ {
+  "start": 809.0399780273438,
+  "end": 810.0,
+  "text": " No."
+ },
+ {
+  "start": 810.0,
+  "end": 813.1599731445312,
+  "text": " A credit score rates your ability to pay back a loan."
+ },
+ {
+  "start": 813.1599731445312,
+  "end": 816.8800048828125,
+  "text": " Normative citizen scoring rates your moral personality"
+ },
+ {
+  "start": 816.8800048828125,
+  "end": 818.1599731445312,
+  "text": " or your civic value."
+ },
+ {
+  "start": 818.1599731445312,
+  "end": 820.760009765625,
+  "text": " And the document is incredibly firm on this."
+ },
+ {
+  "start": 820.760009765625,
+  "end": 823.0,
+  "text": " It says rating humans on their behavior"
+ },
+ {
+  "start": 823.0,
+  "end": 825.3200073242188,
+  "text": " to deny them services or rights"
+ },
+ {
+  "start": 825.3200073242188,
+  "end": 827.0,
+  "text": " endangers human autonomy."
+ },
+ {
+  "start": 827.0,
+  "end": 828.9199829101562,
+  "text": " It's fundamentally anti-democratic."
+ },
+ {
+  "start": 828.9600219726562,
+  "end": 830.4400024414062,
+  "text": " Another major red flag is"
+ },
+ {
+  "start": 830.4400024414062,
+  "end": 833.6799926757812,
+  "text": " law W.S. legal autonomous weapon systems."
+ },
+ {
+  "start": 833.6799926757812,
+  "end": 835.1599731445312,
+  "text": " Killer robots, effectively."
+ },
+ {
+  "start": 835.1599731445312,
+  "end": 837.0800170898438,
+  "text": " The source cites the European Parliament"
+ },
+ {
+  "start": 837.0800170898438,
+  "end": 839.47998046875,
+  "text": " calling for a ban on weapons that select"
+ },
+ {
+  "start": 839.47998046875,
+  "end": 842.239990234375,
+  "text": " and engage targets without a human saying fire."
+ },
+ {
+  "start": 842.239990234375,
+  "end": 846.0399780273438,
+  "text": " The risk of an arms race and just the moral hazard"
+ },
+ {
+  "start": 846.0399780273438,
+  "end": 848.47998046875,
+  "text": " of an algorithm deciding who lives and dies."
+ },
+ {
+  "start": 848.47998046875,
+  "end": 849.3200073242188,
+  "text": " Yeah."
+ },
+ {
+  "start": 849.3200073242188,
+  "end": 850.3599853515625,
+  "text": " It's just too high."
+ },
+ {
+  "start": 850.3599853515625,
+  "end": 853.8400268554688,
+  "text": " It removes the weight of moral responsibility from warfare."
+ },
+ {
+  "start": 853.8400268554688,
+  "end": 856.3200073242188,
+  "text": " The last risk mentioned is covert AI."
+ },
+ {
+  "start": 856.3200073242188,
+  "end": 858.1199951171875,
+  "text": " This goes back to transparency."
+ },
+ {
+  "start": 858.1199951171875,
+  "end": 861.9199829101562,
+  "text": " If we allow AI to blur the line between human and machine,"
+ },
+ {
+  "start": 861.9199829101562,
+  "end": 864.0399780273438,
+  "text": " we risk manipulation."
+ },
+ {
+  "start": 864.0399780273438,
+  "end": 866.280029296875,
+  "text": " If you think you're confiding in a sympathetic human"
+ },
+ {
+  "start": 866.280029296875,
+  "end": 868.9600219726562,
+  "text": " but it's actually a bot programmed to extract data"
+ },
+ {
+  "start": 868.9600219726562,
+  "end": 869.8400268554688,
+  "text": " or sell you something."
+ },
+ {
+  "start": 869.8400268554688,
+  "end": 871.4000244140625,
+  "text": " That's a huge violation of trust."
+ },
+ {
+  "start": 871.4000244140625,
+  "end": 872.239990234375,
+  "text": " It is."
+ },
+ {
+  "start": 872.239990234375,
+  "end": 874.0399780273438,
+  "text": " We shouldn't be building emotional attachments to software."
+ },
+ {
+  "start": 874.0399780273438,
+  "end": 875.47998046875,
+  "text": " So bringing this all together."
+ },
+ {
+  "start": 875.47998046875,
+  "end": 876.4000244140625,
+  "text": " We started with a bridge."
+ },
+ {
+  "start": 876.4000244140625,
+  "end": 879.1199951171875,
+  "text": " We trust the bridge because of physics and laws."
+ },
+ {
+  "start": 879.1199951171875,
+  "end": 880.719970703125,
+  "text": " Can we ever get there with AI?"
+ },
+ {
+  "start": 880.719970703125,
+  "end": 883.1599731445312,
+  "text": " The source argues that we need to view this"
+ },
+ {
+  "start": 883.1599731445312,
+  "end": 884.7999877929688,
+  "text": " as a socio-technical system."
+ },
+ {
+  "start": 884.7999877929688,
+  "end": 885.9199829101562,
+  "text": " It's not just the code."
+ },
+ {
+  "start": 885.9199829101562,
+  "end": 888.47998046875,
+  "text": " It's the code plus the humans plus the laws"
+ },
+ {
+  "start": 888.47998046875,
+  "end": 889.719970703125,
+  "text": " plus the environment."
+ },
+ {
+  "start": 889.719970703125,
+  "end": 891.6400146484375,
+  "text": " But there's a philosophical nugget"
+ },
+ {
+  "start": 891.6400146484375,
+  "end": 894.280029296875,
+  "text": " at the end of the document that really stuck with me."
+ },
+ {
+  "start": 894.280029296875,
+  "end": 897.1599731445312,
+  "text": " It says trust is something we give to people."
+ },
+ {
+  "start": 897.1599731445312,
+  "end": 898.0,
+  "text": " We trust people."
+ },
+ {
+  "start": 898.0,
+  "end": 899.4400024414062,
+  "text": " We rely on machines."
+ },
+ {
+  "start": 899.4400024414062,
+  "end": 901.0800170898438,
+  "text": " That's the crux of it, isn't it?"
+ },
+ {
+  "start": 901.0800170898438,
+  "end": 904.0800170898438,
+  "text": " If an AI is a black box that we can't explain,"
+ },
+ {
+  "start": 904.0800170898438,
+  "end": 905.760009765625,
+  "text": " we can't truly trust it."
+ },
+ {
+  "start": 905.760009765625,
+  "end": 907.4400024414062,
+  "text": " We're just relying on the integrity"
+ },
+ {
+  "start": 907.4400024414062,
+  "end": 908.9600219726562,
+  "text": " of the people who built it."
+ },
+ {
+  "start": 908.9600219726562,
+  "end": 912.8800048828125,
+  "text": " So trustworthy AI is really about proving"
+ },
+ {
+  "start": 912.8800048828125,
+  "end": 914.7999877929688,
+  "text": " that the people behind the curtain"
+ },
+ {
+  "start": 914.7999877929688,
+  "end": 915.8400268554688,
+  "text": " have done their homework."
+ },
+ {
+  "start": 915.8400268554688,
+  "end": 917.0399780273438,
+  "text": " That is the takeaway."
+ },
+ {
+  "start": 917.0399780273438,
+  "end": 919.1199951171875,
+  "text": " So here's the challenge for you listening."
+ },
+ {
+  "start": 919.1199951171875,
+  "end": 921.280029296875,
+  "text": " Next time you interact with a system,"
+ },
+ {
+  "start": 921.280029296875,
+  "end": 924.239990234375,
+  "text": " a loan app, a hiring bot, a smart assistant,"
+ },
+ {
+  "start": 924.239990234375,
+  "end": 926.0399780273438,
+  "text": " ask the hard questions."
+ },
+ {
+  "start": 926.0399780273438,
+  "end": 927.2000122070312,
+  "text": " Is it transparent?"
+ },
+ {
+  "start": 927.2000122070312,
+  "end": 929.0800170898438,
+  "text": " Is there a human in the loop?"
+ },
+ {
+  "start": 929.0800170898438,
+  "end": 930.7999877929688,
+  "text": " Do you know why it made that decision?"
+ },
+ {
+  "start": 930.7999877929688,
+  "end": 932.7999877929688,
+  "text": " Don't settle for the computer said so."
+ },
+ {
+  "start": 932.7999877929688,
+  "end": 934.2000122070312,
+  "text": " Demand the blueprints."
+ },
+ {
+  "start": 934.2000122070312,
+  "end": 937.4000244140625,
+  "text": " Until the next deep dive, stay curious."
+ }
+]
